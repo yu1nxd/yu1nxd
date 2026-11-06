@@ -1,29 +1,14 @@
 ### Hi, I'm Hyung Jiwon 👋
 
-I work on **data analysis and statistical modeling**, using public data to support evidence-based decision-making. My recent work focuses on traffic safety: integrating spatial data, estimating intersection risk, and evaluating models with temporal holdout validation.
+I'm interested in **statistical modeling, spatial data analysis, and data-driven decision-making**. My recent work focuses on using public data to understand traffic safety and assess intersection risk. I led a project on intersection risk assessment in Cheonan, where I worked on data integration, statistical model design, and validation using a temporal holdout.
 
 #### 🔍 Interests
 
-- Statistical modeling and uncertainty estimation
-- Spatial data analysis
-- Public data and policy decision support
-- Model validation and interpretation
+- Statistical Modeling and Uncertainty Estimation
+- Spatial Data Analysis
+- Public Data and Policy Decision Support
+- Model Validation and Interpretation
 
-#### 💻 Selected Project
+#### 📚 Projects
 
-**[Intersection Risk Assessment for Traffic Safety Policy in Cheonan](https://github.com/yu1nxd/cheonan-intersection-risk-dss)** · Aug. 2026  
-Team lead & statistical modeling lead
-
-- Integrated six public data sources into a six-year panel of 72 intersections.
-- Designed a Safety Performance Function and Empirical Bayes framework to assess excess crash risk.
-- Evaluated future risk using a 2024 temporal holdout, documenting limitations and implications for policy decisions.
-
-#### 📚 Learning
-
-- **[BOAZ Analysis Base Session](https://github.com/yu1nxd/27Analysis_BASE)** — forked materials for data analysis study.
-- **[BOAZ Data Analysis Study](https://github.com/yu1nxd/DAstudy)** — forked study materials.
-
-#### 🛠 Tools & Methods
-
-**Python · Jupyter Notebook**  
-Negative Binomial Regression · Empirical Bayes · Spatial Data Integration · Temporal Holdout Validation
+- **Intersection Risk Assessment for Traffic Safety Policy in Cheonan** (2026) — Led the integration of six public data sources and the design of a Safety Performance Function and Empirical Bayes framework to assess excess crash risk across 72 intersections. [[code & report]](https://github.com/yu1nxd/cheonan-intersection-risk-dss)
