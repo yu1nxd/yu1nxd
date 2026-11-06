@@ -1,6 +1,6 @@
 ### Hi, I'm Hyung Jiwon 👋
 
-I'm a third-year undergraduate student majoring in Data Science at Ewha Womans University, South Korea. My interests focus on **statistical modeling, spatial data analysis, and data-driven decision-making**. My recent work focuses on using public data to understand traffic safety and assess intersection risk. I led a project on intersection risk assessment in Cheonan, where I worked on data integration, statistical model design, and validation using a temporal holdout.
+I'm a third-year undergraduate student majoring in Data Science at Ewha Womans University, South Korea. My research interests focus on **statistical modeling, spatial data analysis, and data-driven decision-making**, particularly the use of public data to inform policy decisions. Recently, I led a project on intersection risk assessment in Cheonan, where I worked on integrating public data and developing statistical models to identify intersections with excess crash risk. You can explore my work in the projects below 😊.
 
 #### 🔬 Research Interests
 
