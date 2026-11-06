@@ -20,7 +20,6 @@ Team lead & statistical modeling lead
 
 #### 📚 Learning
 
-- **[KISIA Privacy Training](https://github.com/yu1nxd/Kisia_J)** — hands-on practice notebooks.
 - **[BOAZ Analysis Base Session](https://github.com/yu1nxd/27Analysis_BASE)** — forked materials for data analysis study.
 - **[BOAZ Data Analysis Study](https://github.com/yu1nxd/DAstudy)** — forked study materials.
 
