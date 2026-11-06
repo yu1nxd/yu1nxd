@@ -1,6 +1,8 @@
 ### Hi, I'm Hyung Jiwon 👋
 
-I'm a third-year undergraduate student majoring in Data Science at Ewha Womans University, South Korea. My research interests focus on **statistical modeling, spatial data analysis, and data-driven decision-making**, particularly the use of public data to inform policy decisions. Recently, I led a project on intersection risk assessment in Cheonan, where I worked on integrating public data and developing statistical models to identify intersections with excess crash risk. You can explore my work in the projects below 😊.
+I'm an undergraduate student at Ewha Womans University, South Korea, majoring in Data Science with a background in statistics and data analysis.  
+I'm currently exploring **NLP and LLMs, especially RAG, agents that improve themselves, and the security of AI systems.** I enjoy turning papers into small experiments and projects.  
+Looking to join a research lab in NLP/LLM after graduation.
 
 #### 🔬 Research Interests
 
