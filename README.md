@@ -6,10 +6,10 @@ Looking to join a research lab in NLP/LLM after graduation.
 
 #### 🔬 Research Interests
 
-- Statistical Modeling and Uncertainty Estimation
-- Spatial Data Analysis
-- Public Data and Policy Decision Support
-- Model Validation and Interpretation
+- Natural Language Processing and Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Self-Improving Agents
+- AI Security
 
 #### 📚 Projects
 
