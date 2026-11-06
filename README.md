@@ -2,7 +2,7 @@
 
 I'm a third-year undergraduate student majoring in Data Science at Ewha Womans University, South Korea. My interests focus on **statistical modeling, spatial data analysis, and data-driven decision-making**. My recent work focuses on using public data to understand traffic safety and assess intersection risk. I led a project on intersection risk assessment in Cheonan, where I worked on data integration, statistical model design, and validation using a temporal holdout.
 
-#### 🔍 Interests
+#### 🔬 Research Interests
 
 - Statistical Modeling and Uncertainty Estimation
 - Spatial Data Analysis
