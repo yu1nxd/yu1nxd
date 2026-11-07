@@ -9,6 +9,12 @@ I'm an undergraduate student at Ewha Womans University, South Korea, majoring in
 - Self-Improving Agents
 - AI Security
 
+#### 🌱 Activities
+
+- **BOAZ (AI Club)** — 27th Staff | (Jul 2026 – Present)
+- **KISIA AI Security Technology Development Program** — Personal Information Protection Track | (Jul 2026 – Nov 2026)
+  - Training and project work on AI-based personal information leakage detection and protection models.
+
 #### 📚 Projects
 
 - **Korean Personal and Threat Information Anonymization Pipeline** (KISIA AI Security Training, 2026) — Combined a KLUE BERT-based named entity recognition model with regex rules to detect and anonymize personal and threat information, including phone numbers, email addresses, CVE identifiers, and IPv4 addresses.
