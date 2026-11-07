@@ -1,4 +1,4 @@
-### Hi, I'm Hyung Jiwon 👋
+### Hi, I'm Jiwon Hyung 👋
 
 I'm an undergraduate student at Ewha Womans University, South Korea, majoring in Data Science with a background in statistics and data analysis. I'm currently exploring **NLP and LLMs, especially RAG, agents that improve themselves, and the security of AI systems.** I enjoy turning papers into small experiments and projects. Looking to join a research lab in NLP/LLM after graduation.
 
