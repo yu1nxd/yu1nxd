@@ -4,7 +4,7 @@ I'm an undergraduate student majoring in Data Science at Ewha Womans University,
 
 #### 🎓 Education
 
-- **Ewha Womans University** — B.S. in Data Science (in progress) | Mar 2026 – Present
+- **Ewha Womans University** — B.S. in Data Science (in progress)
 
 #### 🔬 Research Interests
 
