@@ -10,7 +10,6 @@ I'm an undergraduate student majoring in Data Science at Ewha Womans University,
 
 - Natural Language Processing and Large Language Models
 - Retrieval-Augmented Generation (RAG)
-- Self-Improving Agents
 - LLM Alignment
 - AI Security
 
