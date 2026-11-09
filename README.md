@@ -1,11 +1,10 @@
 ### Hi, I'm Jiwon Hyung 👋
 
-I'm an undergraduate student majoring in Data Science at Ewha Womans University, South Korea, with prior coursework in Statistics and Actuarial Science at Soongsil University. My research interests include **NLP and LLMs, RAG, self-improving agents, LLM alignment, and AI security**. My recent work includes NLP-based privacy protection for LLMs and statistical modeling for traffic safety policy. I enjoy turning papers into small experiments and projects, and I'm looking to join an NLP/LLM research lab after graduation.
+I'm an undergraduate student majoring in Data Science at Ewha Womans University, South Korea, with a background in statistics and data analysis. My research interests include **NLP and LLMs, RAG, self-improving agents, LLM alignment, and AI security**. My recent work includes NLP-based privacy protection for LLMs and statistical modeling for traffic safety policy. I enjoy turning papers into small experiments and projects, and I'm looking to join an NLP/LLM research lab after graduation.
 
 #### 🎓 Education
 
 - **Ewha Womans University** — B.S. in Data Science (in progress) | Mar 2026 – Present
-- **Soongsil University** — Undergraduate coursework in Statistics and Actuarial Science | Mar 2023 – Feb 2026. Transferred to Ewha Womans University.
 
 #### 🔬 Research Interests
 
