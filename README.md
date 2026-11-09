@@ -1,25 +1,36 @@
 ### Hi, I'm Jiwon Hyung 👋
 
-I'm an undergraduate student at Ewha Womans University, South Korea, majoring in Data Science with a background in statistics and data analysis. I'm currently exploring **NLP and LLMs, especially RAG, and the security of AI systems.** I enjoy turning papers into small experiments and projects. Looking to join a research lab in NLP/LLM after graduation.
+I'm an undergraduate student majoring in Data Science at Ewha Womans University, South Korea, with prior coursework in Statistics and Actuarial Science at Soongsil University. My research interests include **NLP and LLMs, RAG, self-improving agents, LLM alignment, and AI security**. My recent work includes NLP-based privacy protection for LLMs and statistical modeling for traffic safety policy. I enjoy turning papers into small experiments and projects, and I'm looking to join an NLP/LLM research lab after graduation.
+
+#### 🎓 Education
+
+- **Ewha Womans University** — B.S. in Data Science (in progress) | Mar 2026 – Present
+- **Soongsil University** — Undergraduate coursework in Statistics and Actuarial Science | Mar 2023 – Feb 2026. Transferred to Ewha Womans University.
 
 #### 🔬 Research Interests
 
 - Natural Language Processing and Large Language Models
 - Retrieval-Augmented Generation (RAG)
 - Self-Improving Agents
+- LLM Alignment
 - AI Security
 
 #### 🌱 Activities
 
-- **BOAZ (AI Club)** — 27th Staff | (Jul 2026 – Present)
-- **KISIA AI Security Technology Development Program** — Personal Information Protection Track | (Jul 2026 – Nov 2026)
-  - Training and project work on AI-based personal information leakage detection and protection models.
+- **BOAZ (AI Club)** — 27th Staff | Jul 2026 – Present
+- **KISIA AI Security Technology Development Program** — Personal Information Protection Track | Jul 2026 – Nov 2026. Training and project work on AI-based personal information leakage detection and protection models.
 
 #### 📚 Projects
 
-- **Korean Personal and Threat Information Anonymization Pipeline** (KISIA AI Security Training, 2026) — Combined a KLUE BERT-based named entity recognition model with regex rules to detect and anonymize personal and threat information, including phone numbers, email addresses, CVE identifiers, and IPv4 addresses.
+- **Privacy Proxy: NLP-Based Privacy Protection for LLMs** — Collaborated on Korean NER model development and developed post-processing to combine NER and rule-based privacy detections, resolving overlapping spans based on detection evidence. Used a unified schema of 27 entity types to assess combined privacy risk and implemented risk-based retention, generalization, and tokenization policies. [[code]](https://github.com/KISIA-AI-Project-1)
 
-- **Intersection Risk Assessment for Traffic Safety Policy in Cheonan** (2026) — Led the integration of six public data sources and the design of a Safety Performance Function and Empirical Bayes framework to assess excess crash risk across 72 intersections. [[code & report]](https://github.com/yu1nxd/cheonan-intersection-risk-dss)
+- **Intersection Risk Assessment for Traffic Safety Policy** (Aug 2026) — Led the integration of six public data sources across 72 intersections and designed a negative binomial and Empirical Bayes framework to assess excess crash risk. Achieved ROC-AUC 0.841 on a 2024 temporal holdout to support risk-based prioritization for traffic safety policy. [[code & report]](https://github.com/yu1nxd/cheonan-intersection-risk-dss)
+
+#### 🛠 Skills
+
+- **Programming:** Python, R, C
+- **ML Frameworks:** PyTorch, Hugging Face
+- **Libraries & Tools:** NumPy, pandas, SciPy, statsmodels, scikit-learn, Jupyter Notebook
 
 #### 📫 Contact
 
