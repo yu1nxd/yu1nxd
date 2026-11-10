@@ -18,6 +18,10 @@ I'm an undergraduate student majoring in Data Science at Ewha Womans University,
 - **BOAZ (AI Club)** — 27th Staff | Jul 2026 – Present
 - **KISIA AI Security Technology Development Program** — Personal Information Protection Track | Jul 2026 – Nov 2026. Training and project work on AI-based personal information leakage detection and protection models.
 
+#### 🚧 Projects in Progress
+
+- **Intent-Aware Search Result Filtering** (Nov 2026 – Present) — Designing a Chrome extension that scores query-document relevance to filter search results while allowing users to restore filtered content. Planning comparisons of keyword, embedding, and neural re-ranking approaches, with a focus on relevant-document retention and inference latency.
+
 #### 📚 Projects
 
 - **Privacy Proxy: NLP-Based Privacy Protection for LLMs** — Collaborated on Korean NER model development and developed post-processing to combine NER and rule-based privacy detections, resolving overlapping spans based on detection evidence. Used a unified schema of 27 entity types to assess combined privacy risk and implemented risk-based retention, generalization, and tokenization policies. [[code]](https://github.com/KISIA-AI-Project-1)
