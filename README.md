@@ -10,6 +10,8 @@ I'm an undergraduate student majoring in Data Science at Ewha Womans University,
 
 - LLM reasoning and reliability
 - Self-Feedback: models evaluating and refining their own responses
+- Retrieval-Augmented Generation (RAG)
+- AI Security
 - Reinforcement learning for improving LLM performance (future interest)
 
 #### 🚧 Projects in Progress
