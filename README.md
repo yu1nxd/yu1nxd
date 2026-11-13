@@ -8,10 +8,9 @@ I'm an undergraduate student majoring in Data Science at Ewha Womans University,
 
 #### 🔬 Research Interests
 
-- Natural Language Processing and Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- LLM Alignment
-- AI Security
+- LLM reasoning and reliability
+- Self-Feedback: models evaluating and refining their own responses
+- Reinforcement learning for improving LLM performance (future interest)
 
 #### 🚧 Projects in Progress
 
