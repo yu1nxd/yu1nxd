@@ -20,7 +20,7 @@ I'm an undergraduate student majoring in Data Science at Ewha Womans University,
 
 #### 📚 Projects
 
-- **Privacy Proxy: NLP-Based Privacy Protection for LLMs** — Collaborated on Korean NER model development and developed post-processing to combine NER and rule-based privacy detections, resolving overlapping spans based on detection evidence. Used a unified schema of 27 entity types to assess combined privacy risk and implemented risk-based retention, generalization, and tokenization policies. [[code]](https://github.com/KISIA-AI-Project-1)
+- **Privacy Proxy: NLP-Based Privacy Protection for LLMs** (Aug 2026 – Nov 2026)— Collaborated on Korean NER model development and developed post-processing to combine NER and rule-based privacy detections, resolving overlapping spans based on detection evidence. Used a unified schema of 27 entity types to assess combined privacy risk and implemented risk-based retention, generalization, and tokenization policies. [[code]](https://github.com/KISIA-AI-Project-1)
 
 - **Intersection Risk Assessment for Traffic Safety Policy** (Aug 2026) — Led the integration of six public data sources across 72 intersections and designed a negative binomial and Empirical Bayes framework to assess excess crash risk. Achieved ROC-AUC 0.841 on a 2024 temporal holdout to support risk-based prioritization for traffic safety policy. [[code & report]](https://github.com/yu1nxd/cheonan-intersection-risk-dss)
 
